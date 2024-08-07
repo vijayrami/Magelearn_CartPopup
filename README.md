@@ -3,8 +3,8 @@ Display popup after product is added to cart and show suggested products to the 
 
 # Screenshots
 
-[![Screenshot-from-2022-02-21-07-49-03.png](https://i.postimg.cc/FsLTngSg/Screenshot-from-2022-02-21-07-49-03.png)](https://postimg.cc/kB7N2SfB)
+![Screenshot-from-2022-02-21-07-49-03.png](/assets/first.png)
 
-[![Configuration-Settings-Stores-Magento-Admin-2.png](https://i.postimg.cc/PfBgxqzy/Configuration-Settings-Stores-Magento-Admin-2.png)](https://postimg.cc/t7NSvpcn)
+![Configuration-Settings-Stores-Magento-Admin-2.png](/assets/second.png)
 
-[![Breathe-Easy-Tank.gif](https://i.postimg.cc/3wXRL6r5/Breathe-Easy-Tank.gif)](https://postimg.cc/06NPjVJc)
+![Breathe-Easy-Tank.gif](/assets/third.gif)
